@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/15-02" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25CbcxAr8FZGyyeltR1zOQ18qvg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +20,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/15-02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +34,7 @@
       <updated>1645034099546</updated>
       <workItem from="1645034105706" duration="14000" />
       <workItem from="1645034166593" duration="355000" />
+      <workItem from="1645034565255" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="init finished">
       <created>1645034304882</created>
@@ -42,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645034304883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init start">
+      <created>1645034594656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645034594656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -50,20 +58,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="init finished" />
+    <MESSAGE value="init start" />
+    <option name="LAST_COMMIT_MESSAGE" value="init start" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1645034301906">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1645034593072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1645034301906" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1645034284141">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1645034593072" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1645034573972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1645034284141" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1645034432921">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1645034573972" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1645034608770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1645034432921" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1645034608770" />
   </component>
 </project>
