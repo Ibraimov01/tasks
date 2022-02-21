@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a9f9eb-1a07-4957-af83-f75b2f49f539" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/16-02/1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/16-02/1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-02/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-02/2/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-02/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-02/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,8 @@
       <workItem from="1645034105706" duration="14000" />
       <workItem from="1645034166593" duration="355000" />
       <workItem from="1645034565255" duration="83000" />
-      <workItem from="1645034674760" duration="192000" />
+      <workItem from="1645034674760" duration="473000" />
+      <workItem from="1645423542832" duration="4597000" />
     </task>
     <task id="LOCAL-00001" summary="init finished">
       <created>1645034304882</created>
@@ -69,29 +73,48 @@
       <option name="project" value="LOCAL" />
       <updated>1645034750231</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init finished">
+      <created>1645034891560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645034891560</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init statr">
+      <created>1645035022344</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645035022344</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init finished" />
     <MESSAGE value="init start" />
-    <option name="LAST_COMMIT_MESSAGE" value="init start" />
+    <MESSAGE value="init finished" />
+    <MESSAGE value="init statr" />
+    <option name="LAST_COMMIT_MESSAGE" value="init statr" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1645034748475">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1645035021003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1645034748475" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1645035021003" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1645034573972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1645034573972" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1645034766335">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1645035031310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1645034766335" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1645035031310" />
+    <state x="421" y="188" key="run.anything.popup" timestamp="1645428978607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1645428978607" />
   </component>
 </project>
