@@ -47,6 +47,8 @@ num5 /= 15;
 console.log(num5);
 alert(num5);
 
-
-
-
+num1 =num+=12;
+num2 =num-= 14;
+num3 =num*= 5;
+num4 =num /= 7;
+alert(num1);alert(num2);alert(num3);alert(num4);
