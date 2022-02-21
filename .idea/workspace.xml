@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a9f9eb-1a07-4957-af83-f75b2f49f539" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18-02/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-02/2/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-02/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-02/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,8 @@
       <workItem from="1645034166593" duration="355000" />
       <workItem from="1645034565255" duration="83000" />
       <workItem from="1645034674760" duration="473000" />
-      <workItem from="1645423542832" duration="4597000" />
+      <workItem from="1645423542832" duration="4964000" />
+      <workItem from="1645442260427" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="init finished">
       <created>1645034304882</created>
@@ -87,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645035022344</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init finished">
+      <created>1645430646926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645430646926</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,23 +100,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init start" />
-    <MESSAGE value="init finished" />
     <MESSAGE value="init statr" />
-    <option name="LAST_COMMIT_MESSAGE" value="init statr" />
+    <MESSAGE value="init finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="init finished" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1645035021003">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1645430644968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1645035021003" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1645430644968" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1645034573972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1645034573972" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1645035031310">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1645430655159">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1645035031310" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1645430655159" />
     <state x="421" y="188" key="run.anything.popup" timestamp="1645428978607">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
