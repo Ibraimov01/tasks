@@ -1,0 +1,12 @@
+.notification{
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    top: -45px;
+    width: 300px;
+    display: none;
+}
+.d-block{
+    display: block!important;
+}
