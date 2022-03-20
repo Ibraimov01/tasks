@@ -50,3 +50,4 @@ function calc(arr){
 console.log(calc([1, 2, 3]));
 console.log(calc([4,1,1,1,4]));
 console.log(calc([2,2,2,2,2,2]));
+

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70a9f9eb-1a07-4957-af83-f75b2f49f539" name="Default Changelist" comment="init finished" />
+    <list default="true" id="70a9f9eb-1a07-4957-af83-f75b2f49f539" name="Default Changelist" comment="init finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-03/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-03/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-03/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-03/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24-02/1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/24-02/1/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-02/1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/25-02/1/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28-02/1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/28-02/1/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +61,10 @@
       <workItem from="1645762188041" duration="5877000" />
       <workItem from="1645849993462" duration="7467000" />
       <workItem from="1646207535534" duration="286000" />
+      <workItem from="1647120959051" duration="3867000" />
+      <workItem from="1647132823582" duration="10855000" />
+      <workItem from="1647227773046" duration="5082000" />
+      <workItem from="1647310229536" duration="1250000" />
     </task>
     <task id="LOCAL-00001" summary="init finished">
       <created>1645034304882</created>
@@ -148,10 +160,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1646207751665" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1645034573972">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1647325395303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1645034573972" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1647325395303" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1646207757838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

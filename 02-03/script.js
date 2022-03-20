@@ -13,11 +13,11 @@ let obj = {
 }
 console.log(obj);
 // Через цикл
-sum = 1;
+/*sum = 1;
 for(let i = 0; i < numbers.length; i++){
     sum *= numbers[i];
 }
-console.log(sum);
+console.log(sum);*/
 
 //! 2) Напишите функцию, которая заполняет новый массив предоставленным значением
 //!    и затем ее возвращает. Функция должна первым параметром принимать
@@ -43,9 +43,53 @@ console.log(myFunc(3, 'a'));
 // console.log(data);
 
 // Через функцию
+/*
 function myFunc1(){
     const data = [1, 2, 3];
     data.reverse();
     console.log(data);
 }
 myFunc1();
+
+
+
+
+function factorial(number){
+    let first = 1;
+    for(let i = 1; i <= number; i++){
+        first*=i;
+    }
+    return first;
+}
+console.log(factorial(7));
+*/
+/*
+let arr3=['1','2','3','4','5','6','7','8','9','10']
+for(let i = 0; i <=9; i++){
+    console.log(arr3[i]*2);
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
